@@ -1,7 +1,7 @@
 #PyTelegramBot
 ##Introduction
 ***
-current version:1.1<br>
+current version:0.11<br>
 A simple lib for using telegram robot APIs by using python.<br>
 Have fun:)
 ##Installation
